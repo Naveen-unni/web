@@ -1,0 +1,28 @@
+.m{
+  background-image: url('Bg.jpg');
+  height: 270vh;
+  background-size: cover;
+}
+
+.h{
+  font-family: 'Roboto';
+  color: white;
+  text-decoration: underline;
+}
+.he{
+  text-align: right;
+  
+  color: white;
+  
+}
+.p{
+  text-align: right;
+  
+  color: white;
+  
+}
+.pp{
+  color: wheat;
+}
+
+
